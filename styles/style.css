@@ -76,7 +76,7 @@ body {
     }
 
     @media (max-width: 480px) {
-      header ,footer , footer { 
+      header,main,footer { 
    
      font-size: 5px;
      padding: 5px;
