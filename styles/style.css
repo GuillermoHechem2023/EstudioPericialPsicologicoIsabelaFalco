@@ -80,7 +80,7 @@ body {
    
      font-size: 12px;
      padding: 5px;
-     width: 80%;
+     width: 90%;
       }  
      }
 
@@ -88,6 +88,6 @@ body {
      @media (max-width: 480px) {
       body { 
    
-        background-size: 84%;
+        background-size: 94%;
       }  
      }
